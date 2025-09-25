@@ -26,7 +26,7 @@ Following plots have been developed from the generated model output with 6-hourl
 
  ![mslp_hudhud2](https://github.com/user-attachments/assets/bf0446df-0c16-483e-9690-e43ab4bd2dc0)
  ![pp_hudhud1](https://github.com/user-attachments/assets/48c4a0f5-9515-4212-b703-09ff7c7f769b)
-<img width="985" height="989" alt="Screenshot from 2025-09-07 13-25-39" src="https://github.com/user-attachments/assets/54bbd01d-2f74-4c7b-afdd-b5b0ec84fe85" />
+
 
 ![cloud_hudhud12](https://github.com/user-attachments/assets/1c616e7c-9681-47ea-aa49-2aee1d058455)
 ![cloud_hudhud1](https://github.com/user-attachments/assets/9d34a3e7-b8b2-4013-90b5-ee1c04b03a6d)
